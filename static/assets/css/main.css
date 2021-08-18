@@ -970,7 +970,8 @@ input, select, textarea {
 		}
 
 		#bg {
-			width: 900px;
+			width: 1800px;
+			user-zoom: fixed;
 		}
 
 	/* Header */
@@ -1067,7 +1068,8 @@ input, select, textarea {
 		}
 
 		#bg {
-			width: 1237.5px;
+			width: 2250.5px;
+			user-zoom: fixed;
 		}
 
 	/* Header */
