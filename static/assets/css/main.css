@@ -885,12 +885,12 @@ input, select, textarea {
 		}
 
 		#bg {
-			width: 2250px;
+			width: 2291px;
 		} }
 
 /* Mobile */
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 2291px) {
 
 		/* Basic */
 
