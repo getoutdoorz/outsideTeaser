@@ -228,7 +228,7 @@ input, select, textarea {
 
 		background: #348cb2 url("images/gathering.jpg") bottom left;
 		background-repeat: repeat-x;
-		zoom: 50%;
+		zoom: inherit;
 		height: 100%;
 		left: 0;
 		opacity: 1;
