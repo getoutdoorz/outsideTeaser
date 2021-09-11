@@ -72,6 +72,7 @@ input, select, textarea {
 	appearance: none;
 }
 
+
 /* Basic */
 
 	html {
@@ -153,6 +154,7 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
+
 
 /* Wrapper */
 
@@ -558,6 +560,17 @@ input, select, textarea {
 			font-weight: 600;
 			letter-spacing: -0.035em;
 			line-height: 1em;
+
+			position: absolute;
+			top: -35%;
+  			left: 50%;
+  			transform: translate(-50%, -50%);
+			
+			text-indent: -9999px;
+			width:628px;
+			height:128px;
+			background: url(/static/assets/css/images/logotext.png) no-repeat;
+
 		}
 
 		#header p {
@@ -691,7 +704,7 @@ input, select, textarea {
 				}
 
 					#header nav a:hover:before {
-						background-color: rgba(7, 243, 77, 0.175);
+						background-color: rgba(135, 222, 184, 1);
 						color: #fff;
 					}
 
